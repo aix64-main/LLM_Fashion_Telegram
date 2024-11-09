@@ -1,2 +1,5 @@
-# LLM_Fashion_Telegram
-Using Google translator, LLM and Retrieval Model to create a Fashion Recommender telegram Bot.
+# LLM-based Outfit Recommendation Telegram Bot
+
+# *Related Tutorial Video:*
+
+https://youtu.be/1R-sMhOnLeo?si=VU2GPpY0IfSZEzTN
